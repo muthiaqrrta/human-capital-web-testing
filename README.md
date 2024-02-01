@@ -39,3 +39,4 @@ $ mvn clean verify -Ddriver=firefox
 ```
 
 The test results will be recorded in the `target/site/serenity` directory.
+The list of test cases can be seen at 'https://docs.google.com/spreadsheets/d/1rbIugjCLvSCCz4dVeTPa_NivCaBXEpPKnXMLh8PPZ04/edit?usp=sharing'.
